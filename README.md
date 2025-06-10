@@ -71,12 +71,13 @@ Voici un aperçu des sections clés de ce tableau de bord, illustrant comment il
 
 Pour une exploration approfondie et interactive de toutes les données et visualisations, vous pouvez télécharger la version PDF complète du tableau de bord :
 
-[**Voir le rapport Power BI complet en PDF (Analyse des Ventes de Diamants)**](Dashborad_Analyse_des_diamants.pdf)
+[**Voir le rapport Power BI complet en PDF (Analyse des Ventes de Diamants)**](Dashboard_Analyse_des_diamants.pdf)
+[**Télécharger le rapport Power BI interactif pour le manipuler en local (Analyse des Ventes de Diamants)**](Dashboard.pbix)
 
 ##  Technologies Utilisées
 
 * **Microsoft Power BI Desktop**
 
-## Auteur et Contact
+## Auteur
 
 Développé par [Stephane Bella Mbarga]
